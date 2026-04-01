@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352425979558",
+    "project_id": "lab8-1756e",
+    "storage_bucket": "lab8-1756e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352425979558:android:5374d0707e6421074f0e67",
+        "android_client_info": {
+          "package_name": "com.example.lab8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5DBTxnTZxA6SzQpHQOmr6gsFdQ8BA1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352425979558:android:f4c4326404337b654f0e67",
+        "android_client_info": {
+          "package_name": "com.example.pizzeria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb5DBTxnTZxA6SzQpHQOmr6gsFdQ8BA1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
